@@ -1,0 +1,17 @@
+we need to clone remote repo to local 
+    git clone url 
+    ls//
+    go to inside local repo 
+    cd myweb
+    file create 
+    touch abc    -===== file create
+    git status ===== working area
+    git add file name / ./ *
+    git add abc ======== indexing area 
+    we are getting the file to local repo ===commit
+    git commit -m 'firstcommit'   =====local repo
+    git log  ====40 digit commit id 
+    q
+    push to remote repo 
+    git push origin master
+    ......///.......
